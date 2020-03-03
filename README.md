@@ -2,6 +2,7 @@
 ## Welcome to GitHub Pages
 https://lx-home.github.io/testhome/
 
+这是二月份更新的内容，在WSL-ubuntu 18.04中克隆github中的testhome仓库建立的的
 
 You can use the [editor on GitHub](https://github.com/lx-home/testhome/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
